@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PC_Mart</string>
+    <string name="topic">PC Mart</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="spinner">Choose Type</string>
+    <string name="nameReg" />
+    <string name="phoneReg">Phone</string>
+    <string name="btsearch">Search</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="search">Search</string>
+    <string name="rename">Name</string>
+    <string name="e_mail">e mail</string>
+    <string name="phone">Phone</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="regname">Name</string>
+    <string name="foname">Name</string>
+    <string name="string_name">Name</string>
+    <string name="profile">Profile</string>
+    <string name="pc_mart">PC Mart</string>
+    <string name="name">Name</string>
+    <string name="user">User</string>
+    <string name="add">ADD</string>
+    <string name="update">UPDATE</string>
+    <string-array name="usertype">
+        <item>User</item>
+        <item>Seller</item>
+    </string-array>
+</resources>
