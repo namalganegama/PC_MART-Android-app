@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ListingItem</string>
+    <string name="id_txt" />
+    <string name="id_txt1">Add title of product</string>
+    <string name="id_text">Name of your item</string>
+    <string name="etDiscription">Description</string>
+    <string name="etDescription">Description</string>
+    <string name="btn">submit</string>
+    <string name="btn1">Delete</string>
+    <string name="inputText1">Enter your Item Name</string>
+    <string name="start_selling_a_product">Start Selling a Product</string>
+    <string name="price">price</string>
+    <string name="image">image</string>
+    <string name="id_btn">delete</string>
+    <string name="id_txtvl">add description</string>
+    <string name="id_name">username</string>
+    <string name="username">username</string>
+    <string name="et_titleF">Add title here</string>
+    <string name="et_descriptionF">Item Description</string>
+    <string name="et_price">Price</string>
+    <string name="et_contactF">contact number</string>
+    <string name="et_btnF">List</string>
+    <string name="btnvl1">Submit</string>
+    <string name="btnvl2">Delete Listed</string>
+    <string name="textView1">Add your images</string>
+</resources>
